@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./Neon Tech Portfolio Banner.png"
+       width="100%"
+       alt="Sammani Jayalath GitHub Banner">
+</p>
+
+<br/>
+
+
 # Hi, I'm Sammani Jayalath 👋
 
 ### Computer Science Undergraduate | Full-Stack Developer | AI & Data Science Enthusiast
