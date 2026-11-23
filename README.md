@@ -175,7 +175,7 @@ I'm always interested in connecting with fellow developers, technology enthusias
   <a href="https://github.com/jayalathsammanee-star">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/samman-jayalath-1a6519396/">
+  <a href="https://www.linkedin.com/in/sammani-jayalath/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jayalathsammanee@gmail.com">
