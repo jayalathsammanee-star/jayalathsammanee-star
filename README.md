@@ -1,76 +1,45 @@
-<p align="center">
-  <img src="./Neon Tech Portfolio Banner.png"
-       width="100%"
-       alt="Sammani Jayalath GitHub Banner">
-</p>
+# Sammani Jayalath — Certifications
 
-<br/>
+This folder contains the 21 certificate images supplied for the GitHub portfolio.
 
+> Certificate images are preserved as supplied. The course title on the Sabaragamuwa University certificate is not clearly legible in the uploaded image; verify it before publishing the exact title.
 
-# Hi, I'm Sammani Jayalath 👋
+## AI and Machine Learning
 
-### Computer Science Undergraduate | Full-Stack Developer | AI & Data Science Enthusiast
+- [AI for Beginners](01_AI_and_Machine_Learning/1786347085217.png)
+- [AI for Business Professionals](01_AI_and_Machine_Learning/1786346857767.png)
+- [Critical Thinking in the AI Era](01_AI_and_Machine_Learning/1786346715953.jpeg)
+- [Basics of Machine Learning Algorithms](01_AI_and_Machine_Learning/1778046276948.jpeg)
+- [Strategic Planning in the AI Age](01_AI_and_Machine_Learning/1786345145975.jpeg)
 
-I'm a BSc (Hons) Computer Science undergraduate passionate about building innovative software solutions and solving real-world problems through technology.
+## Data and Analytics
 
-💻 Interested in Full-Stack Development  
-🤖 Exploring Artificial Intelligence & Machine Learning  
-📊 Interested in Data Analytics & Business Intelligence  
-🌱 Always learning and improving my technical skills  
-🎯 Aspiring Software Engineer
+- [Basics of Data Science](02_Data_and_Analytics/1778047834959.jpeg)
+- [Basics of Microsoft Power BI](02_Data_and_Analytics/1778048102473.jpeg)
+- [Handling Storing and Managing Data for Information Management](02_Data_and_Analytics/1778035271449.png)
 
-## 🛠️ Technical Skills
+## Cybersecurity
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- [Introduction to Cybersecurity Awareness](03_Cybersecurity/1786369801756.jpeg)
+- [Cyber Security Understand Threats and Prevent Attacks](03_Cybersecurity/1778034681528.jpeg)
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+## Business and Professional Skills
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- [Business Communications](04_Business_and_Professional_Skills/1786345609530.png)
+- [Business Email](04_Business_and_Professional_Skills/1786345991459.jpeg)
+- [Effective Presentations](04_Business_and_Professional_Skills/1786346277395.png)
+- [Customer Experience for Business Success](04_Business_and_Professional_Skills/1786366504567.jpeg)
+- [Basics of Digital Marketing](04_Business_and_Professional_Skills/1778047435998.jpeg)
+- [Professional Networking for Career Growth](04_Business_and_Professional_Skills/1786282758239.png)
 
-### 🗄️ Database Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+## Project and Technical Skills
 
-### 📊 Data Science & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- [Agile Project Management](05_Project_and_Technical_Skills/1786368806240.png)
+- [Project Scope and Schedule Management](05_Project_and_Technical_Skills/1778044382038.jpeg)
+- [Python for Beginners](05_Project_and_Technical_Skills/1778045853016.jpeg)
+- [Certificate in Information Technology](05_Project_and_Technical_Skills/1778045277311.jpeg)
+- [Sabaragamuwa University Certificate - Course Title To Confirm](05_Project_and_Technical_Skills/1778045431166.jpeg)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## Privacy note
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayalathsammanee-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalathsammanee-star&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
-</p>
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayalathsammanee-star&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>Always Learning | Always Building | Always Improving</i>
-</p>
+Before publishing, check whether you want certificate IDs, QR codes, verification links, or other personal details to be publicly visible.
