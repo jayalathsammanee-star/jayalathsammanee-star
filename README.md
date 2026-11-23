@@ -54,3 +54,23 @@ I'm a BSc (Hons) Computer Science undergraduate passionate about building innova
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayalathsammanee-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayalathsammanee-star&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jayalathsammanee-star&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always Learning | Always Building | Always Improving</i>
+</p>
